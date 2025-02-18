@@ -67,6 +67,8 @@ Platform: Fabric
 
 This zip files contains mods you will need to transfer over to the 'mods' folder
 
+Only care about the .jar files, ignore everything else
+
 So open up a new window for file manager, open/extract the zip file, all the files inside, transfer it to the mods folder of minecraft launcher
 
 ![image](https://github.com/user-attachments/assets/799c8e62-672d-48a2-8575-e238a89141f0)
